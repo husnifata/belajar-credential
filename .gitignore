@@ -1,0 +1,5 @@
+#Abaikan folder instalasi library
+node_modules
+
+#Abaikan environtment lokal
+.env
